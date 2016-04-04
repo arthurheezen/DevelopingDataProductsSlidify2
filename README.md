@@ -1,1 +1,0 @@
-# DevelopingDataProductsSlidify2
